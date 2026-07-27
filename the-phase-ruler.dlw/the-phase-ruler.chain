@@ -1,0 +1,9 @@
+ROOT0-DLW-CHAIN-v1
+index : 1745
+slug  : the-phase-ruler
+seal  : 164879815fa4ac3e2d4333415e91c502f9f88b0cfb5454fd5cf06aca37a5675a
+prev  : 81a48c6f6156319baf11c3449d745a3249cde7e83ba2fb2ff9868ad401119240
+link  : 4e014423fa00ecbb37bf3cd9149cfcd46b58cc41b6a0f443990dd64ca951627d
+head  : 4e014423fa00ecbb37bf3cd9149cfcd46b58cc41b6a0f443990dd64ca951627d
+
+— the tether: link = sha256(index|slug|seal|prev). the chain head commits to the whole corpus.
